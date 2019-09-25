@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cahkiopohs.stefankruis.nl/sitemap.xml
